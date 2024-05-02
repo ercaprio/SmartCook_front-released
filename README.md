@@ -1,0 +1,3 @@
+# SmartCook
+
+## diploma project
